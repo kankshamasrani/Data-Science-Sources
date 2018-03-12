@@ -14,3 +14,6 @@
     ii. [Tableau Software](https://www.youtube.com/channel/UCWGrtxO6JrPSDUcgp3Qm_Gw)
  
 3. [Set Scholars - Free Data Science Recipes for Beginners](https://setscholars.com/)
+
+
+4. [Free Data Science Blogs, Books & Courses](https://phoenixts.com/blog/free-data-science-blogs-books-and-courses/)
