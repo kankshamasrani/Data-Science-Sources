@@ -12,6 +12,9 @@
     
     
     ii. [Tableau Software](https://www.youtube.com/channel/UCWGrtxO6JrPSDUcgp3Qm_Gw)
+    
+    
+    iii. [SuperDataScience](https://www.youtube.com/channel/UCHBWJGoZMkhJyElgvuN1U1w)
  
 3. [Set Scholars - Free Data Science Recipes for Beginners](https://setscholars.com/)
 
