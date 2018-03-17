@@ -20,3 +20,5 @@
 
 
 4. [Free Data Science Blogs, Books & Courses](https://phoenixts.com/blog/free-data-science-blogs-books-and-courses/)
+
+5. [Data Scribble](http://www.datascribble.com/)
