@@ -22,3 +22,10 @@
 4. [Free Data Science Blogs, Books & Courses](https://phoenixts.com/blog/free-data-science-blogs-books-and-courses/)
 
 5. [Data Scribble](http://www.datascribble.com/)
+
+6. [Towards Data Science](https://towardsdatascience.com/)
+             6.1 [Python for Finance - Stock Portfolio analysis](https://towardsdatascience.com/python-for-finance-stock-portfolio-analyses-6da4c3e61054)
+             
+             
+ 7. [Dataconomy](http://dataconomy.com/)
+             7.1 [Big Data and E-commerce](http://dataconomy.com/2018/02/5-ways-big-data-analytics-will-impact-e-commerce-2018/?utm_content=69593379&utm_medium=social&utm_source=linkedin)
