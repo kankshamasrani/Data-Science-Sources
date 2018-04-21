@@ -25,7 +25,7 @@
 
 6. [Towards Data Science](https://towardsdatascience.com/)
            
-      6.1 [Python for Finance - Stock Portfolio analysis](https://towardsdatascience.com/python-for-finance-stock-portfolio-analyses-    6da4c3e61054)
+      6.1 [Python for Finance - Stock Portfolio analysis](https://towardsdatascience.com/python-for-finance-stock-portfolio-analyses-6da4c3e61054)
      
      6.2 [PySpark in jupyter](https://towardsdatascience.com/how-to-use-pyspark-on-your-computer-9c7180075617)
              
@@ -41,5 +41,5 @@
 
 10. [Datafloq](https://datafloq.com/)
  
-  10.1 [Social Media and Big Data](https://datafloq.com/read/how-social-media-companies-use-big-data/1957?utm_content=69471844&utm_medium=social&utm_source=linkedin)
+     10.1 [Social Media and Big Data](https://datafloq.com/read/how-social-media-companies-use-big-data/1957?utm_content=69471844&utm_medium=social&utm_source=linkedin)
    
