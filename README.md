@@ -42,4 +42,10 @@
 10. [Datafloq](https://datafloq.com/)
  
      10.1 [Social Media and Big Data](https://datafloq.com/read/how-social-media-companies-use-big-data/1957?utm_content=69471844&utm_medium=social&utm_source=linkedin)
+     
+11. [Data Science Central]
+
+      11.1 [20 Important Python Libraries](https://www.datasciencecentral.com/profiles/blogs/top-20-python-libraries-for-data-science-in-2018)
+      
+      11.2 [Statistics for Data Scientist](https://www.datasciencecentral.com/profiles/blogs/22-great-articles-about-statistics-for-data-scientists)
    
