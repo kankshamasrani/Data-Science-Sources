@@ -43,9 +43,20 @@
  
      10.1 [Social Media and Big Data](https://datafloq.com/read/how-social-media-companies-use-big-data/1957?utm_content=69471844&utm_medium=social&utm_source=linkedin)
      
-11. [Data Science Central]
+11. [Data Science Central](https://www.datasciencecentral.com/)
 
       11.1 [20 Important Python Libraries](https://www.datasciencecentral.com/profiles/blogs/top-20-python-libraries-for-data-science-in-2018)
       
       11.2 [Statistics for Data Scientist](https://www.datasciencecentral.com/profiles/blogs/22-great-articles-about-statistics-for-data-scientists)
+      
+      11.3 [HBase v/s HDFS](https://www.datasciencecentral.com/profiles/blogs/hdfs-vs-hbase-all-you-need-to-know)
+      
+ 12. [Medium](https://medium.com/)
+ 
+     12.1 [Basic Statistics for every Data Scientist](https://medium.com/@SeattleDataGuy/statistics-review-for-data-scientists-and-management-df8f94760221)
+     
+     12.2[Acing the AI Interviews](https://medium.com/acing-ai/acing-ai-interviews/home)
+     
+     12.3[Using TabPy to detect Breast Cancer - Basic](https://medium.com/acing-ai/how-i-used-na%C3%AFve-bayes-and-logistic-regression-to-detect-breast-cancer-using-tabpy-f25a623e0ae1)      
+      
    
