@@ -63,3 +63,6 @@
  
  14. [Oreilly Free Data Ebooks](https://www.oreilly.com/data/free/archive.html)      
    
+ 15. [IBM Big Data hub](http://www.ibmbigdatahub.com/)
+ 
+ 16. [ITVERSITY](https://www.youtube.com/channel/UCakdSIPsJqiOLqylgoYmwQg)
