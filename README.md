@@ -58,6 +58,8 @@
      12.2[Acing the AI Interviews](https://medium.com/acing-ai/acing-ai-interviews/home)
      
      12.3[Using TabPy to detect Breast Cancer - Basic](https://medium.com/acing-ai/how-i-used-na%C3%AFve-bayes-and-logistic-regression-to-detect-breast-cancer-using-tabpy-f25a623e0ae1)      
+     
+     12.4 [Businesses failing at Machine Learning](https://hackernoon.com/why-businesses-fail-at-machine-learning-fbff41c4d5db)
     
  13. [Data Science +](https://www.facebook.com/datascienceplus/)
  
